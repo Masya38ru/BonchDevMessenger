@@ -10,14 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".ui.activities.SignUpActivity"></activity>
-        <activity android:name=".ui.activities.SignInActivity" />
-        <activity android:name=".ui.activities.MainAppActivity">
+        <activity android:name=".ui.activities.SignInActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.activities.MainAppActivity" />
     </application>
 
 </manifest>
