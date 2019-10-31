@@ -1,4 +1,8 @@
 <resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_drawer_chat">Чат</string>
+    <string name="nav_drawer_profile">Профиль</string>
     <string name="app_name">Bonch Dev Messenger</string>
     <string name="mail_hint">Почта</string>
     <string name="password_hint">Пароль</string>
